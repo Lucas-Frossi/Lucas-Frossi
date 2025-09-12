@@ -23,9 +23,6 @@ Meu nome é Lucas, nasci no dia 01 de setembro de 2006, em São Paulo - SP. Conc
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Lucas-Frossi?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"
         />
-    </a>
-  
-    </a>
 </p>
 
 ---
