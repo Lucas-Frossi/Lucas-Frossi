@@ -11,7 +11,6 @@ Meu nome é Lucas, nasci no dia 01 de setembro de 2006, em São Paulo - SP. Conc
             title="Me siga no LinkdIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkdeIn-63%20-0077B52?color=7abcf5&style=for-the-badge&labelcolor=5681a6&logo=linkedinlucas&label=LinkdeIn&labelColor=5681a6&logoColor"
         />
-    </a> 
     <a href="https://github.com/Lucas-Frossi?tab=followers">
         <img 
             alt="Seguidores" 
