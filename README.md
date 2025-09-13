@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Teodoro
+# 👨🏻‍💻 Lucas Teodoro
 
 **`Desenvolvedor FullStack`**
 
